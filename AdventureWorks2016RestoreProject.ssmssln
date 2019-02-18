@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "How to Restore AdventureWorks2016.bak File", "How to Restore AdventureWorks2016.bak File\How to Restore AdventureWorks2016.bak File.ssmssqlproj", "{550DD8BA-1207-419E-9008-497B41273DBC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Restore AdventureWorks2016 from SQL Script and SQL CMD Line Only", "Restore AdventureWorks2016 from SQL Script and SQL CMD Line Only\Restore AdventureWorks2016 from SQL Script and SQL CMD Line Only.ssmssqlproj", "{B3A3CAA6-19C2-4E4D-AFCA-A37E8F82C2DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{550DD8BA-1207-419E-9008-497B41273DBC}.Default|Default.ActiveCfg = Default
+		{B3A3CAA6-19C2-4E4D-AFCA-A37E8F82C2DC}.Default|Default.ActiveCfg = Default
+		{40F00FD5-D21C-4C59-973B-3D0F6643C7B0}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

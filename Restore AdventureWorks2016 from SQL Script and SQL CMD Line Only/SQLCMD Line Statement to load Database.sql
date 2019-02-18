@@ -1,0 +1,1 @@
+sqlcmd -i AdventureWorks2016CreateDBSchemawithData.sql -o result.txt
