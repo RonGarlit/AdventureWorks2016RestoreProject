@@ -10,6 +10,6 @@ Restore is the simpest method.
 The second project "Restore AdventureWorks2016 from SQL Script and SQL CMD Line Only" requires some major memory on your machine to do.  It will display all of the AdventureWorks2016 Schema and Data and requires the use of the SQLCMD inorder to install.  This is for experieince people for restore purposes.
 
 HOWEVER...  Unpacking the zip file to open the monolithic script will allow you to study the code.  Again you need tons of RAM to do this.
-# =========================================================
+================
 
 Recently added Interactive HTML ER Diagrams.  These will allow you to hover and click on objects and just to the appropriate documentation.
